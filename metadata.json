@@ -1,0 +1,6 @@
+{
+  "name": "Word Arena",
+  "description": "A feature-rich word trivia and educational gaming arena featuring crosswords, interactive live competitive tournaments, collective collaborative challenges, and smart vocab tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
